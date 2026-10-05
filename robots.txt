@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danie-poiret.github.io/web-libre/sitemap.xml

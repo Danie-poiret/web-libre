@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#eee5cc"/><stop offset="1" stop-color="#f6f0de"/></linearGradient><pattern id="fields" width="22" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)"><path d="M0 4h22" stroke="#d2bd78" stroke-width="2"/></pattern></defs>
+<path fill="url(#sky)" d="M0 0h600v620H0z"/>
+<circle cx="440" cy="143" r="56" fill="#dca64e"/>
+<path d="M0 292 77 235 151 259 218 202 281 267 353 215 407 254 496 201 600 268v352H0z" fill="#b6beb0"/>
+<path d="m0 345 64-38 94 11 102-74 86 64 96-29 92 66 66-9v284H0z" fill="#839783"/>
+<path d="m0 365 98 37 103-61 122 29 99-59 82 31 96 96v182H0z" fill="#566f55"/>
+<path d="M0 449c114-87 184-9 301-50s185-6 299 37v184H0z" fill="#d6c488"/>
+<path d="M0 449c114-87 184-9 301-50s185-6 299 37v184H0z" fill="url(#fields)" opacity=".8"/>
+<path d="M306 371c-1 45 91 40 112 70s-133 57-173 103-31 67-24 76" fill="none" stroke="#f4e5b9" stroke-width="22"/>
+<g stroke="#c8ad7b" stroke-width="1"><path fill="#e8d7b3" d="M227 335h47v44h-47zM276 321h38v56h-38zM316 340h40v45h-40zM355 352h32v39h-32zM257 350h28v37h-28z"/><path fill="#bc643e" d="m223 335 27-14 28 14zM271 321l24-15 24 15zM313 340l23-12 25 12zM351 352l21-10 21 10zM252 350l18-11 18 11z"/></g>
+<path d="M301 280h17v52h-17z" fill="#ecdfc3"/><path d="m297 280 12-18 13 18z" fill="#ac593b"/><g fill="#56664d"><path d="M305 296h7v12h-7zM237 350h7v10h-7zM259 350h7v10h-7zM287 338h7v10h-7zM328 354h7v10h-7zM363 366h7v10h-7z"/></g>
+<g fill="#3e5841"><path d="M32 498c22-26 50-24 64 0-17 15-45 20-64 0zM92 462c19-26 49-24 64 0-20 16-41 17-64 0zM135 489c23-24 50-24 64 0-21 15-43 16-64 0zM476 477c20-25 50-25 64 0-20 17-43 17-64 0zM523 512c20-25 50-25 64 0-20 17-43 17-64 0z"/></g>
+<g stroke="#6b6847" stroke-width="5"><path d="M62 500v28M124 464v28M167 491v28M508 480v28M555 514v28"/></g>
+<g fill="none" stroke="#293f32" stroke-width="7" stroke-linecap="round"><path d="M26 620c14-100 21-204 80-293M38 546l-37-58M51 495l-39-48M66 449l-32-49M76 420l54-28M94 364l-14-56"/></g>
+<g fill="#2f4937"><ellipse cx="19" cy="484" rx="12" ry="31" transform="rotate(-45 19 484)"/><ellipse cx="20" cy="445" rx="11" ry="29" transform="rotate(-45 20 445)"/><ellipse cx="41" cy="400" rx="11" ry="30" transform="rotate(-28 41 400)"/><ellipse cx="113" cy="398" rx="11" ry="31" transform="rotate(64 113 398)"/><ellipse cx="81" cy="321" rx="11" ry="29" transform="rotate(-18 81 321)"/><ellipse cx="100" cy="347" rx="11" ry="31" transform="rotate(25 100 347)"/><ellipse cx="62" cy="543" rx="11" ry="31" transform="rotate(50 62 543)"/></g>
+<g fill="#b89a4b"><ellipse cx="91" cy="380" rx="5" ry="8"/><ellipse cx="58" cy="476" rx="5" ry="8"/><ellipse cx="30" cy="558" rx="5" ry="8"/></g>
+</svg>
